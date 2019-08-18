@@ -1,0 +1,15 @@
+target
+.classpath
+.project
+.settings
+.idea
+.testenv
+*.iml
+release-repo
+.class
+.png
+test-output/
+.DS_Store
+bin/
+
+/target/
